@@ -1,0 +1,95 @@
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe.config
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\bin\Debug\yazılım Yapımı.pdb
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım Yapımı.csprojAssemblyReference.cache
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Form1.resources
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım_Yapımı.KelimeEkle.resources
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Properties.Resources.resources
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.GenerateResource.cache
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım Yapımı.exe
+C:\Users\Eyyüp SERT\source\repos\yazılım Yapımı\yazılım Yapımı\obj\Debug\yazılım Yapımı.pdb
+D:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe.config
+D:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe
+D:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.pdb
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csprojAssemblyReference.cache
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Properties.Resources.resources
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.GenerateResource.cache
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CoreCompileInputs.cache
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.exe
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.pdb
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_KelimeEkle.resources
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Kelimeogren.resources
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Sınav.resources
+E:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe.config
+E:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe
+E:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.pdb
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csprojAssemblyReference.cache
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Form1.resources
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_KelimeEkle.resources
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Kelimeogren.resources
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Sınav.resources
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Properties.Resources.resources
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.GenerateResource.cache
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CoreCompileInputs.cache
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.exe
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.pdb
+E:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_ezber.resources
+D:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\MetroFramework.Design.dll
+D:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\MetroFramework.dll
+D:\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\MetroFramework.Fonts.dll
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_AnaMenu.resources
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_ıstatistik.resources
+D:\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CopyComplete
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe.config
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\yazılım Yapımı.pdb
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\MetroFramework.dll
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csprojAssemblyReference.cache
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_AnaMenu.resources
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_KelimeEkle.resources
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Kelimeogren.resources
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Sınav.resources
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_ıstatistik.resources
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Properties.Resources.resources
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.GenerateResource.cache
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CopyComplete
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.exe
+C:\Users\Eyyüp SERT\Desktop\yazılım yapımı ödevi\yazılım Yapımı\obj\Debug\yazılım Yapımı.pdb
+E:\deneme123\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe.config
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.exe
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.pdb
+E:\deneme123\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe
+E:\deneme123\yazılım Yapımı\bin\Debug\yazılım Yapımı.pdb
+E:\deneme123\yazılım Yapımı\bin\Debug\MetroFramework.Design.dll
+E:\deneme123\yazılım Yapımı\bin\Debug\MetroFramework.dll
+E:\deneme123\yazılım Yapımı\bin\Debug\MetroFramework.Fonts.dll
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.csprojResolveAssemblyReference.cache
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_AnaMenu.resources
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_KelimeEkle.resources
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Kelimeogren.resources
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Sınav.resources
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_ıstatistik.resources
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Properties.Resources.resources
+E:\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.GenerateResource.Cache
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe.config
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\bin\Debug\yazılım Yapımı.exe
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\bin\Debug\yazılım Yapımı.pdb
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\bin\Debug\MetroFramework.dll
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.csprojAssemblyReference.cache
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_AnaMenu.resources
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_KelimeEkle.resources
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Kelimeogren.resources
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_Sınav.resources
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.frm_ıstatistik.resources
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım_Yapımı.Properties.Resources.resources
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.GenerateResource.cache
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.csproj.CopyComplete
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.exe
+C:\Users\Eyyüp SERT\Desktop\deneme123\yazılım Yapımı\obj\Debug\yazılım Yapımı.pdb

@@ -1,0 +1,11 @@
+﻿muz	banana	İsim
+kalem	pencıl	isim
+kağıt	paper	isim
+köpek	dog	isim
+kuş	bird	isim
+su	water	isim
+salatalık	cucumber	isim
+kelime	word	isim
+armut	pear	isim
+pil	battery	isim
+dosya	fıle	isim
